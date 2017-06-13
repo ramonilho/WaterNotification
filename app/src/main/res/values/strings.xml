@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WaterNotification</string>
+    <string name="title">don\'t forget your water!!</string>
+    <string name="hint_seconds">Insira o intervalo da notificação (em s)</string>
+    <string name="start_notifications">programar</string>
+    <string name="stop_notifications">parar notificações</string>
+</resources>
